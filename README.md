@@ -1,2 +1,2 @@
-# apple-clone
-apple clone
+# iphone
+This is my new website.
